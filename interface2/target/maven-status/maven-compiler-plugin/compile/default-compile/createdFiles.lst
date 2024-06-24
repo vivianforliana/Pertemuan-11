@@ -1,0 +1,5 @@
+com\mycompany\pertemuansebelas\interface2\Main.class
+com\mycompany\pertemuansebelas\interface2\FileStorage.class
+com\mycompany\pertemuansebelas\interface2\DatabaseStorage.class
+com\mycompany\pertemuansebelas\interface2\MemoryStorage.class
+com\mycompany\pertemuansebelas\interface2\DataStorage.class
